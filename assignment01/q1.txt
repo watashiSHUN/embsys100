@@ -1,0 +1,11 @@
+autonomous vechile:
+
+they have a lot of inputs, radar and sensors
+interrupt needs to be responded very quickly
+if we detect a pedastrian, we want the break
+to kick in as soon as possible
+
+system needs to be robust, we are not fault tolerant
+when people's live are on the line, ie kernal cannot die
+we can't allow a blue screen of death
+
