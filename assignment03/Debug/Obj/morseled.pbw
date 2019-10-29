@@ -1,0 +1,142 @@
+[
+  {
+    "ID": "c:main.c@8@macro@RCC_AHBIENR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RCC_AHBIENR",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "RCC_AHBIENR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@58@macro@GPIOA_MODER",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_MODER",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "GPIOA_MODER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@108@macro@GPIOA_ODR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOA_ODR",
+    "location": {
+      "column": "9",
+      "line": "3",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "GPIOA_ODR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "14",
+      "line": "4",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@unit",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "unit",
+    "location": {
+      "column": "5",
+      "line": "5",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "unit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@on",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void on(int)",
+    "location": {
+      "column": "6",
+      "line": "8",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "on",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@off",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void off(int)",
+    "location": {
+      "column": "6",
+      "line": "15",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "off",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@letter",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void letter(char *, int)",
+    "location": {
+      "column": "6",
+      "line": "24",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "letter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@580@F@letter@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "11",
+      "line": "25",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "35",
+      "path": "C:\\shun_embedded\\assignment03\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  }
+]
